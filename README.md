@@ -2,7 +2,7 @@
 
 ## Description
 
-Solo LFG Module for Azerothcore.
+Allows for players to use dungeon finder solo or in groups less than and up to 5 players. Use on azerothcore 3.3.5a. Good companion module for mod-solocraft and mod-autobalance.
 
 
 ## Installation
@@ -20,5 +20,6 @@ rename the file SoloLfg.conf.dist to SoloLfg.conf and edit it.
 
 
 ## Credits
+*  [Traesh: Original Script](https://github.com/Traesh)
 *  [Micrah/Milestorme: Module Creator](https://github.com/milestorme).
 *  [Conan513:](https://github.com/conan513).
