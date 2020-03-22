@@ -4,13 +4,19 @@
 # SOLO LFG
 ###################################################################################################
 
-#    EnableSoloLfg
+#    SoloLFG.Enable
 #        Description: Enable the module
 #        Default:     1  - (Enabled)
 #                     0  - (Disabled)
 
 
-LFG.SoloMode = 1
+SoloLFG.Enable = 1
 
+#    SoloLFG.Announce
+#        Description: Announce the module
+#        Default:     1  - (Enabled)
+#                     0  - (Disabled)
+
+SoloLFG.Announce = 1
 
 ###################################################################################################
