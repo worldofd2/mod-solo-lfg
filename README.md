@@ -47,7 +47,7 @@ copy the file SoloLfg.conf.dist to SoloLfg.conf and edit it (keep both files).
 ## Docker Uninstallation
 ```
 1. Remove the /modules/mod-solo-lfg folder
-2. Remove the lfg-solo.patch from y our core.
+2. Remove the lfg-solo.patch from your core.
     a. In order to do this, please go to the root /azerothcore-wotlk of your installation.
     b. Then do git apply -R modules/mod-solo-lfg/lfg-solo.patch 
 3. Re-run cmake and launch a clean build of AzerothCore.
