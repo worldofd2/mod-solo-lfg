@@ -9,7 +9,6 @@
 #        Default:     1  - (Enabled)
 #                     0  - (Disabled)
 
-
 SoloLFG.Enable = 1
 
 #    SoloLFG.Announce
@@ -17,6 +16,6 @@ SoloLFG.Enable = 1
 #        Default:     1  - (Enabled)
 #                     0  - (Disabled)
 
-SoloLFG.Announce = 1
+SoloLFG.Announce = 0
 
 ###################################################################################################
